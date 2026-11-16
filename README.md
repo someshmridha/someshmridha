@@ -4,7 +4,7 @@
 
 I use modelling, simulation, and controlled comparisons to study engineering systems. My work connects wireless communications, intelligent motor control, and power electronics.
 
-[Engineering portfolio](https://someshmridhaofficial.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/somesh-mridha-7b853326b/) · [Email](mailto:someshmridha.official@gmail.com)
+[Engineering portfolio](https://someshmridhaofficial.netlify.app/) · [GitHub projects](https://github.com/someshmridha?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/somesh-mridha-7b853326b/) · [Email](mailto:someshmridha.official@gmail.com)
 
 ## Education
 
